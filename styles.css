@@ -1,2 +1,32 @@
 
 /* Your CSS Code here. */
+.container{
+	display: grid;
+	
+}
+#button-1{
+	background-color: blue;
+	color: white;
+}
+#button-3{
+	background-color: green;
+	color: white;
+}
+#button-4{
+	background-color: red;
+	color: white;
+}
+#button-5{
+	display: grid;
+	grid-column: span 30; 
+	background-color: yellow;
+	color: black;
+}
+#button-6{
+	background-color: lightblue;
+	color: white;
+}
+
+#button-7{
+	border: none;
+}
